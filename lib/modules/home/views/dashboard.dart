@@ -200,7 +200,7 @@ class _DashboardState extends ConsumerState<Dashboard> {
                 }),
               )),
               const SizedBox(
-                height: 70,
+                height: 100,
               )
             ],
           ),
